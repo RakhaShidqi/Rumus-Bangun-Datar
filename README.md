@@ -5,7 +5,8 @@ Deskripsi singkat tentang proyek Anda di sini.
 ## Cara Penggunaan
 
 Berikan instruksi tentang cara menggunakan proyek Anda di sini.
-1. git clone https://github.com/RakhaShidqi/Rumus-Bangun-Datar
+1. git clone https://github.com/RakhaShidqi/Rumus-Bangun-Datar.git
 2. cd Rumus-Bangun-Datar
 3. cd rumus
-4. PIlih rumus sesuai bangun datarnya
+4. python3 rumus.py
+5. PIlih rumus sesuai bangun datarnya
